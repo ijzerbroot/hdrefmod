@@ -1,6 +1,6 @@
-# hdrefhazamod
+# hdhazamod
 
-A modification of Alan Reiser's Hands Down reference for ANSI
+A modification of Alan Reiser's Hands Down for ANSI
 
 ![pictured](https://github.com/ijzerbroot/hdrefmod/blob/main/hdrefhazamod.png)
 
